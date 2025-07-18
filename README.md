@@ -2,8 +2,6 @@
 
 A web-based dormitory management system for Durban University of Technology (DUT) students.
 
-![DUTResidence24 Screenshot](images/screenshot.png) *(Optional: Add a screenshot later)*
-
 ## ✨ Features
 - **Student Registration** – Secure sign-up for residents.
 - **Room Allocation** – Automated room assignment.
